@@ -1,5 +1,5 @@
-<img  src="assets/profilepic.png" alt="profilepic" width="150"/>
-
+<!--<img  src="assets/profilepic.png" alt="profilepic" width="150"/>
+-->
 # Isaiah Heinze
 
 ## I am a student at Chicago City Colleges studying computer science
