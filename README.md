@@ -5,8 +5,6 @@
 ## I am a student at Chicago City Colleges studying computer science
 
 * I'm finishing up my first year, and I am looking to transfer to a university Fall 2027!
-* This Summer I'm doing an internship program through the university of Illinois Discovery Partners Institute.
-
 
 ## I am working on a rock paper scissor 32 bit rpg game!!
 
