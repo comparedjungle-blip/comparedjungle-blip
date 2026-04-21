@@ -8,8 +8,11 @@
 
 ## I am working on a rock paper scissor 32 bit rpg game!!
 
-<img src="assets/gamescreenshot.png" alt="gamescreenshot" width="300"/>
-<img src="assets/gamescreenshot2.png" alt="gamescreenshot" width="300"/>
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="assets/gamescreenshot.png" style="width: 45%;">
+  <img src="assets/gamescreenshot2.png" style="width: 45%;">
+</div>
+
 
 * I'm using C++ and the raylib library for this project.
 * It is very early alpha...
